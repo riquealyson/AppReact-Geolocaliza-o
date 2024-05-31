@@ -2,7 +2,7 @@ Tecnologias Utilizadas
 
 React Native: Framework para desenvolvimento do aplicativo móvel.
 
-Expo: Ferramenta para simplificar o desenvolvimento, construção e deploy do aplicativo.
+Expo: Ferramenta para simplificar o desenvolvimento e construção do aplicativo.
 
 React Navigation: Biblioteca para navegação entre as telas.
 
